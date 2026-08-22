@@ -1,0 +1,285 @@
+{
+  "url": "https://raw.githubusercontent.com/akashtavern-art/quantum-neural-holographic-consciousness-matrix/main/level1/level2/level3/level4/level5/level6/level7/level8/level9/level10/level11/level12/level13/level14/level15/level16/level17/level18/level19/level20/level21/level22/level23/level24/level25/XOcm-InX80Y/input.json",
+  "stages": {
+    "dependency_install_s": 128.617,
+    "download_s": 2.004,
+    "media_prepare_s": 1.241,
+    "audio_worker_s": 576.323,
+    "vision_worker_s": 587.851
+  },
+  "gpu": {
+    "count": 1,
+    "devices": [
+      "Tesla P100-PCIE-16GB"
+    ],
+    "error": null
+  },
+  "status": "valid",
+  "input": {
+    "youtube_url": "https://www.youtube.com/watch?v=XOcm-InX80Y",
+    "download_url": "https://raw.githubusercontent.com/akashtavern-art/quantum-neural-holographic-consciousness-matrix/main/level1/level2/level3/level4/level5/level6/level7/level8/level9/level10/level11/level12/level13/level14/level15/level16/level17/level18/level19/level20/level21/level22/level23/level24/level25/XOcm-InX80Y/yt_dlp/XOcm-InX80Y.mp4",
+    "input_url": "https://raw.githubusercontent.com/akashtavern-art/quantum-neural-holographic-consciousness-matrix/main/level1/level2/level3/level4/level5/level6/level7/level8/level9/level10/level11/level12/level13/level14/level15/level16/level17/level18/level19/level20/level21/level22/level23/level24/level25/XOcm-InX80Y/input.json",
+    "skill_name": "default",
+    "skill_file": "/Users/akash/Documents/all_rounder_yt_automation/skills/default.md",
+    "github_folder": "https://github.com/akashtavern-art/quantum-neural-holographic-consciousness-matrix/tree/main/level1/level2/level3/level4/level5/level6/level7/level8/level9/level10/level11/level12/level13/level14/level15/level16/level17/level18/level19/level20/level21/level22/level23/level24/level25/XOcm-InX80Y",
+    "media_url": "https://raw.githubusercontent.com/akashtavern-art/quantum-neural-holographic-consciousness-matrix/main/level1/level2/level3/level4/level5/level6/level7/level8/level9/level10/level11/level12/level13/level14/level15/level16/level17/level18/level19/level20/level21/level22/level23/level24/level25/XOcm-InX80Y/yt_dlp/XOcm-InX80Y.mp4",
+    "media_file": "XOcm-InX80Y.mp4",
+    "video_id": "XOcm-InX80Y",
+    "skill_match_type": "default",
+    "skill_text": "# Default\n\nGeneral YouTube Shorts transformation profile.\n",
+    "local_manifest": {
+      "video_id": "XOcm-InX80Y",
+      "url": "https://www.youtube.com/watch?v=XOcm-InX80Y",
+      "title": "Impractical Jokers - Talent Show Dream Destroyer (Punishment) | truTV",
+      "duration": 278,
+      "files": [
+        {
+          "path": "XOcm-InX80Y.0.jpg",
+          "bytes": 2934
+        },
+        {
+          "path": "XOcm-InX80Y.1.jpg",
+          "bytes": 3703
+        },
+        {
+          "path": "XOcm-InX80Y.10.jpg",
+          "bytes": 5247
+        },
+        {
+          "path": "XOcm-InX80Y.11.jpg",
+          "bytes": 6638
+        },
+        {
+          "path": "XOcm-InX80Y.12.jpg",
+          "bytes": 9559
+        },
+        {
+          "path": "XOcm-InX80Y.13.jpg",
+          "bytes": 13500
+        },
+        {
+          "path": "XOcm-InX80Y.14.jpg",
+          "bytes": 10552
+        },
+        {
+          "path": "XOcm-InX80Y.15.jpg",
+          "bytes": 15250
+        },
+        {
+          "path": "XOcm-InX80Y.16.jpg",
+          "bytes": 7809
+        },
+        {
+          "path": "XOcm-InX80Y.17.jpg",
+          "bytes": 10735
+        },
+        {
+          "path": "XOcm-InX80Y.18.jpg",
+          "bytes": 27893
+        },
+        {
+          "path": "XOcm-InX80Y.19.jpg",
+          "bytes": 19174
+        },
+        {
+          "path": "XOcm-InX80Y.2.jpg",
+          "bytes": 3164
+        },
+        {
+          "path": "XOcm-InX80Y.20.jpg",
+          "bytes": 28400
+        },
+        {
+          "path": "XOcm-InX80Y.21.jpg",
+          "bytes": 22038
+        },
+        {
+          "path": "XOcm-InX80Y.22.jpg",
+          "bytes": 22280
+        },
+        {
+          "path": "XOcm-InX80Y.23.jpg",
+          "bytes": 15038
+        },
+        {
+          "path": "XOcm-InX80Y.24.jpg",
+          "bytes": 3194
+        },
+        {
+          "path": "XOcm-InX80Y.25.jpg",
+          "bytes": 3943
+        },
+        {
+          "path": "XOcm-InX80Y.26.jpg",
+          "bytes": 11759
+        },
+        {
+          "path": "XOcm-InX80Y.27.jpg",
+          "bytes": 9694
+        },
+        {
+          "path": "XOcm-InX80Y.28.jpg",
+          "bytes": 22881
+        },
+        {
+          "path": "XOcm-InX80Y.29.jpg",
+          "bytes": 17825
+        },
+        {
+          "path": "XOcm-InX80Y.3.jpg",
+          "bytes": 3884
+        },
+        {
+          "path": "XOcm-InX80Y.30.jpg",
+          "bytes": 22881
+        },
+        {
+          "path": "XOcm-InX80Y.31.jpg",
+          "bytes": 5429
+        },
+        {
+          "path": "XOcm-InX80Y.32.jpg",
+          "bytes": 3649
+        },
+        {
+          "path": "XOcm-InX80Y.33.jpg",
+          "bytes": 6954
+        },
+        {
+          "path": "XOcm-InX80Y.34.jpg",
+          "bytes": 4462
+        },
+        {
+          "path": "XOcm-InX80Y.35.jpg",
+          "bytes": 9727
+        },
+        {
+          "path": "XOcm-InX80Y.36.jpg",
+          "bytes": 5861
+        },
+        {
+          "path": "XOcm-InX80Y.37.jpg",
+          "bytes": 14776
+        },
+        {
+          "path": "XOcm-InX80Y.38.jpg",
+          "bytes": 8495
+        },
+        {
+          "path": "XOcm-InX80Y.39.jpg",
+          "bytes": 17825
+        },
+        {
+          "path": "XOcm-InX80Y.4.jpg",
+          "bytes": 2471
+        },
+        {
+          "path": "XOcm-InX80Y.40.jpg",
+          "bytes": 36048
+        },
+        {
+          "path": "XOcm-InX80Y.41.jpg",
+          "bytes": 23228
+        },
+        {
+          "path": "XOcm-InX80Y.42.jpg",
+          "bytes": 81272
+        },
+        {
+          "path": "XOcm-InX80Y.43.jpg",
+          "bytes": 44448
+        },
+        {
+          "path": "XOcm-InX80Y.44.jpg",
+          "bytes": 81272
+        },
+        {
+          "path": "XOcm-InX80Y.45.jpg",
+          "bytes": 44448
+        },
+        {
+          "path": "XOcm-InX80Y.5.jpg",
+          "bytes": 2969
+        },
+        {
+          "path": "XOcm-InX80Y.6.jpg",
+          "bytes": 6446
+        },
+        {
+          "path": "XOcm-InX80Y.7.jpg",
+          "bytes": 8466
+        },
+        {
+          "path": "XOcm-InX80Y.8.jpg",
+          "bytes": 7433
+        },
+        {
+          "path": "XOcm-InX80Y.9.jpg",
+          "bytes": 10052
+        },
+        {
+          "path": "XOcm-InX80Y.description",
+          "bytes": 1346
+        },
+        {
+          "path": "XOcm-InX80Y.en-orig.vtt",
+          "bytes": 17823
+        },
+        {
+          "path": "XOcm-InX80Y.en.vtt",
+          "bytes": 17823
+        },
+        {
+          "path": "XOcm-InX80Y.info.json",
+          "bytes": 45757
+        },
+        {
+          "path": "XOcm-InX80Y.mp4",
+          "bytes": 19651175
+        },
+        {
+          "path": "yt_dlp_download.log",
+          "bytes": 61775
+        },
+        {
+          "path": "yt_info_full.json",
+          "bytes": 58052
+        }
+      ]
+    }
+  },
+  "dependency_install": {
+    "missing": [
+      "yt-dlp",
+      "scenedetect[opencv]",
+      "faster-whisper",
+      "whisperx",
+      "pyannote.audio",
+      "panns-inference",
+      "insightface",
+      "onnxruntime-gpu",
+      "ultralytics",
+      "av"
+    ],
+    "installed": [
+      "yt-dlp",
+      "scenedetect[opencv]",
+      "faster-whisper",
+      "whisperx",
+      "pyannote.audio",
+      "panns-inference",
+      "insightface",
+      "onnxruntime-gpu",
+      "ultralytics",
+      "av"
+    ],
+    "failed": [],
+    "seconds": 128.557
+  },
+  "validation": {
+    "valid": true,
+    "errors": [],
+    "checked_at": "2026-08-22T23:36:35Z"
+  },
+  "total_seconds": 723.072
+}
