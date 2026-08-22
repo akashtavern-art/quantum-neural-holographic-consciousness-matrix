@@ -1,0 +1,632 @@
+================================================================================
+VIDEO XOcm_InX80Y | 04:37.410 | 29.970fps | lang en
+FORMAT  [mm:ss.mmm-mm:ss.mmm] SPEAKER: "text"
+        (whisper)/(trembling)/(crying)/(alarmed) = prosody | (lang: xx) = non-primary
+        (voiceover) = speaker's face NOT on screen | * = ASR word conf < 0.90
+        VISUAL = what's on screen during the window | WORDS = word[start_ms-end_ms]
+        AUDIO = non-speech sounds overlapping the line | conf 0-1
+================================================================================
+CAST:
+  PERSON_01 = male (~38y), speaker/participant | voice SPK_00 (match 0.94)
+SHOTS: 0.000s-10.510s shot_000 | 10.510s-14.381s shot_001 | 14.381s-21.889s shot_002 | 21.889s-23.824s shot_003 | 23.824s-24.958s shot_004 | 24.958s-27.828s shot_005 | 27.828s-32.199s shot_006 | 32.199s-35.502s shot_007 | 35.502s-37.237s shot_008 | 37.237s-39.106s shot_009 | 39.106s-40.908s shot_010 | 40.908s-48.782s shot_011 | 48.782s-50.884s shot_012 | 50.884s-52.552s shot_013 | 52.552s-54.888s shot_014 | 54.888s-56.023s shot_015 | 56.023s-57.291s shot_016 | 57.291s-59.326s shot_017 | 59.326s-60.994s shot_018 | 60.994s-62.729s shot_019 | 62.729s-64.431s shot_020 | 64.431s-67.568s shot_021 | 67.568s-69.670s shot_022 | 69.670s-73.206s shot_023 | 73.206s-74.608s shot_024 | 74.608s-76.977s shot_025 | 76.977s-79.513s shot_026 | 79.513s-82.215s shot_027 | 82.215s-86.253s shot_028 | 86.253s-87.554s shot_029 | 87.554s-89.389s shot_030 | 89.389s-91.158s shot_031 | 91.158s-93.060s shot_032 | 93.060s-94.494s shot_033 | 94.494s-96.129s shot_034 | 96.129s-100.934s shot_035 | 100.934s-102.803s shot_036 | 102.803s-104.705s shot_037 | 104.705s-108.508s shot_038 | 108.508s-109.409s shot_039 | 109.409s-111.812s shot_040 | 111.812s-113.680s shot_041 | 113.680s-116.750s shot_042 | 116.750s-118.719s shot_043 | 118.719s-123.924s shot_044 | 123.924s-128.795s shot_045 | 128.795s-130.664s shot_046 | 130.664s-132.566s shot_047 | 132.566s-134.368s shot_048 | 134.368s-137.671s shot_049 | 137.671s-139.272s shot_050 | 139.272s-140.574s shot_051 | 140.574s-146.880s shot_052 | 146.880s-148.348s shot_053 | 148.348s-150.350s shot_054 | 150.350s-153.253s shot_055 | 153.253s-155.288s shot_056 | 155.288s-156.356s shot_057 | 156.356s-158.592s shot_058 | 158.592s-159.993s shot_059 | 159.993s-161.061s shot_060 | 161.061s-163.130s shot_061 | 163.130s-165.666s shot_062 | 165.666s-166.867s shot_063 | 166.867s-170.704s shot_064 | 170.704s-174.741s shot_065 | 174.741s-176.710s shot_066 | 176.710s-179.379s shot_067 | 179.379s-180.580s shot_068 | 180.580s-181.815s shot_069 | 181.815s-183.417s shot_070 | 183.417s-184.718s shot_071 | 184.718s-185.652s shot_072 | 185.652s-186.820s shot_073 | 186.820s-188.422s shot_074 | 188.422s-190.090s shot_075 | 190.090s-192.959s shot_076 | 192.959s-193.994s shot_077 | 193.994s-195.295s shot_078 | 195.295s-197.330s shot_079 | 197.330s-200.233s shot_080 | 200.233s-201.201s shot_081 | 201.201s-202.169s shot_082 | 202.169s-204.671s shot_083 | 204.671s-206.540s shot_084 | 206.540s-208.475s shot_085 | 208.475s-211.578s shot_086 | 211.578s-212.446s shot_087 | 212.446s-214.047s shot_088 | 214.047s-216.283s shot_089 | 216.283s-217.751s shot_090 | 217.751s-222.022s shot_091 | 222.022s-223.757s shot_092 | 223.757s-226.059s shot_093 | 226.059s-227.661s shot_094 | 227.661s-230.497s shot_095 | 230.497s-233.567s shot_096 | 233.567s-237.971s shot_097 | 237.971s-239.372s shot_098 | 239.372s-242.342s shot_099
+================================================================================
+[00:00.064-00:01.928] SOUND: non-speech transient (0.62)
+[00:01.940-00:11.560] SPK_00: "let me guess I'm in a talent show come on no no you're the judge in a talent show to be more"
+  VISUAL: shot_000 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04. Objects: none detected.
+  WORDS: let*[1940-2420] me[5300-5480] guess[5480-5740] I'm*[5740-7080] in*[7080-7160] a[7160-7220] talent[7220-7420] show[7420-7660] come*[7660-7900] on[7900-8100] no*[8100-8420] no[8420-8580] you're*[8580-9220] the[9220-9260] judge[9260-9620] in*[9620-9760] a[9760-9840] talent[9840-10100] show[10100-10400] to[10400-10860] be[10860-11040] more[11040-11560]
+  AUDIO: none (1.00) [1940-11560] from audio-analysis
+
+[00:10.510] EVENT: scene cut
+[00:11.560-00:23.100] SPK_00: "precise it's a children's talent show you like kids right yeah like no you don't okay thank you"
+  VISUAL: shot_002 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04, PERSON_05, PERSON_06, PERSON_07, PERSON_08. Objects: none detected.
+  WORDS: precise[11560-11960] it's[11960-12380] children's[12380-13120] talent*[13120-13300] show[13300-13500] you*[13500-14500] like[14500-14900] kids[14900-15140] right*[15140-15340] yeah*[15340-15540] like*[15540-15820] no*[15820-16160] you[16160-16320] don't*[16320-16520] okay[16520-18160] thank[19570-21470] you[22780-23100]
+  AUDIO: none (1.00) [11560-23100] from audio-analysis
+
+[00:14.381] EVENT: scene cut
+[00:21.889] EVENT: scene cut
+[00:23.100-00:30.260] SPK_00: "all for coming out today to our talent show sal you are the simon cowell of this talent show"
+  VISUAL: shot_005 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03. Objects: none detected.
+  WORDS: all[23100-23340] for[23340-23600] coming[23600-23920] out[23920-24220] today[24220-24680] to[24680-25140] our[25140-25340] talent[25340-25720] show[25720-26260] sal*[26260-27520] you*[27520-27960] are*[27960-28180] the[28180-28300] simon[28300-28860] cowell[28860-29340] of[29340-29500] this[29500-29620] talent[29620-29940] show[29940-30260]
+  AUDIO: none (1.00) [23100-30260] from audio-analysis
+
+[00:23.824] EVENT: scene cut
+[00:24.958] EVENT: scene cut
+[00:27.828] EVENT: scene cut
+[00:31.160-00:35.580] SPK_00: "let's get started with our first performer well sal doesn't know that the kids are in on it they"
+  VISUAL: shot_007 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04. Objects: none detected.
+  WORDS: let's[31160-31640] get[31640-31740] started[31740-32140] with[32140-32300] our[32300-32380] first[32380-32680] performer[32680-33200] well*[33200-33800] sal*[33800-34020] doesn't[34020-34240] know[34240-34340] that*[34340-34460] the[34460-34600] kids[34600-34800] are[34800-34940] in[34940-35080] on[35080-35200] it*[35200-35380] they[35380-35580]
+  AUDIO: none (1.00) [31160-35580] from audio-analysis
+
+[00:32.199] EVENT: scene cut
+[00:35.502] EVENT: scene cut
+[00:35.580-00:47.910] SPK_00: "know that sal's a plant judge the audience though no idea no idea wow wow kid's good irish step"
+  VISUAL: shot_011 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04, PERSON_05, PERSON_06, PERSON_07, PERSON_08. Objects: none detected.
+  WORDS: know*[35580-35740] that[35740-36400] sal's*[36400-36820] a[36820-36860] plant[36860-37040] judge[37040-37240] the*[37240-37580] audience[37580-37920] though[37920-38240] no*[38240-39320] idea[39320-39600] no[39600-40040] idea*[40040-40260] wow[40260-41940] wow[44890-45670] kid's*[45670-47130] good[47130-47290] irish[47290-47710] step[47710-47910]
+  AUDIO: none (1.00) [35580-47910] from audio-analysis
+
+[00:37.237] EVENT: scene cut
+[00:39.106] EVENT: scene cut
+[00:40.908] EVENT: scene cut
+[00:47.910-00:52.610] SPK_00: "dancing this kid's all right look at how high her legs go yell i ordered chicken wings an hour ago"
+  VISUAL: shot_012 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04. Objects: none detected.
+  WORDS: dancing*[47910-48350] this[48350-48530] kid's[48530-48810] all[48810-48910] right[48910-49090] look*[49090-49190] at*[49190-49210] how[49210-49330] high[49330-49610] her[49610-49770] legs[49770-49990] go[49990-50310] yell*[50310-51310] i[51310-51470] ordered[51470-51650] chicken[51650-51890] wings[51890-52110] an[52110-52270] hour[52270-52410] ago[52410-52610]
+  AUDIO: none (1.00) [47910-52610] from audio-analysis
+
+[00:48.782] EVENT: scene cut
+[00:50.884] EVENT: scene cut
+[00:52.552] EVENT: scene cut
+[00:52.610-01:12.510] SPK_00: "i ordered chicken wings an hour ago it was really beautiful to watch thanks so much for that great"
+  VISUAL: shot_021 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04, PERSON_05, PERSON_06, PERSON_07, PERSON_08. Objects: none detected.
+  WORDS: i[52610-53430] ordered[58710-58990] chicken[58990-59290] wings[59290-59610] an[59610-59830] hour[59830-60070] ago[60070-60370] it[60370-61490] was[69810-70010] really[70010-70410] beautiful[70410-70830] to[70830-71110] watch[71110-71330] thanks[71330-71710] so[71710-71850] much[71850-72090] for[72090-72250] that[72250-72350] great[72350-72510]
+  AUDIO: none (1.00) [52610-72510] from audio-analysis
+
+[00:54.888] EVENT: scene cut
+[00:56.023] EVENT: scene cut
+[00:57.291] EVENT: scene cut
+[00:59.326] EVENT: scene cut
+[01:00.994] EVENT: scene cut
+[01:02.729] EVENT: scene cut
+[01:04.431] EVENT: scene cut
+[01:07.568] EVENT: scene cut
+[01:09.670] EVENT: scene cut
+[01:12.510-01:16.870] SPK_00: "performance make sure the girl knows that you ordered chicken wings an hour ago too"
+  VISUAL: shot_025 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03. Objects: none detected.
+  WORDS: performance[72510-72930] make[72930-74450] sure[74450-74790] the[74790-74970] girl[74970-75190] knows[75190-75410] that[75410-75530] you[75530-75610] ordered[75610-75770] chicken[75770-75990] wings[75990-76210] an[76210-76330] hour[76330-76490] ago[76490-76630] too[76630-76870]
+  AUDIO: none (1.00) [72510-76870] from audio-analysis
+
+[01:13.206] EVENT: scene cut
+[01:14.608] EVENT: scene cut
+[01:16.870-01:21.750] SPK_00: "when you give your feedback i was having a hard time concentrating"
+  VISUAL: shot_026 — actions inferred from sampled frames; On screen: PERSON_01. Objects: none detected.
+  WORDS: when[76870-77710] you[77710-77790] give[77790-77910] your[77910-78030] feedback[78030-78330] i[78330-80030] was[80030-80290] having[80290-80630] a[80630-80830] hard[80830-81010] time[81010-81190] concentrating[81190-81750]
+  AUDIO: none (1.00) [76870-81750] from audio-analysis
+
+[01:16.977] EVENT: scene cut
+[01:19.513] EVENT: scene cut
+[01:21.750-01:22.110] SPK_00: "on the show"
+  VISUAL: shot_027 — actions inferred from sampled frames; On screen: PERSON_01. Objects: none detected.
+  WORDS: on[81750-82110]
+  AUDIO: none (1.00) [81750-82110] from audio-analysis
+
+[01:22.130-01:26.110] SPK_00: "on it only because i ordered my i ordered chicken wings an hour ago i called that out while you were"
+  VISUAL: shot_028 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04. Objects: none detected.
+  WORDS: on*[82130-82150] it[82150-82310] only*[82310-82490] because[82490-82770] i*[82770-83010] ordered[83010-83290] my*[83290-83470] i*[83470-83610] ordered[83610-83810] chicken[83810-84050] wings[84050-84290] an[84290-84450] hour[84450-84630] ago[84630-84870] i[84870-85110] called[85110-85390] that*[85390-85490] out[85490-85630] while[85630-85810] you[85810-85970] were[85970-86110]
+  AUDIO: none (1.00) [82130-86110] from audio-analysis
+
+[01:22.215] EVENT: scene cut
+[01:26.110-01:32.990] SPK_00: "dancing it's hard enough to sit through a kid's uh talent show it's you know it's hard enough"
+  VISUAL: shot_030 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04, PERSON_05. Objects: none detected.
+  WORDS: dancing[86110-86510] it's[86510-87090] hard[87090-87250] enough[87250-87510] to[87510-87730] sit[87730-87910] through[87910-88150] a[88150-88290] kid's[88290-88570] uh*[88570-88690] talent[88690-89050] show[89050-89270] it's[89270-90390] you*[90390-90470] know*[90470-90610] it's[90610-92390] hard[92390-92510] enough[92510-92990]
+  AUDIO: none (1.00) [86110-92990] from audio-analysis
+
+[01:26.253] EVENT: scene cut
+[01:27.554] EVENT: scene cut
+[01:29.389] EVENT: scene cut
+[01:31.158] EVENT: scene cut
+[01:33.060] EVENT: scene cut
+[01:34.494] EVENT: scene cut
+[01:34.810-01:40.650] SPK_00: "it's it's it's hard enough to you guys know this it's hard enough to sit through a kid's talent show"
+  VISUAL: shot_035 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02. Objects: none detected.
+  WORDS: it's[94810-95210] it's*[95210-95390] it's*[95390-96510] hard[96510-96650] enough[96650-96890] to[96890-97090] you[97090-97250] guys[97250-97410] know[97410-97630] this[97630-97810] it's[97810-98290] hard[98290-98450] enough[98450-98670] to[98670-98930] sit[98930-99290] through[99290-99590] a[99590-99730] kid's[99730-100010] talent[100010-100250] show[100250-100650]
+  AUDIO: none (1.00) [94810-100650] from audio-analysis
+
+[01:36.129] EVENT: scene cut
+[01:40.934] EVENT: scene cut
+[01:41.056-01:42.120] SOUND: non-speech transient (0.62)
+[01:42.080-01:42.312] SOUND: non-speech transient (0.62)
+[01:42.560-01:42.824] SOUND: non-speech transient (0.62)
+[01:42.803] EVENT: scene cut
+[01:43.230-01:46.270] SPK_00: "despite the fact that you know you got to eat you know you got i ordered chicken"
+  VISUAL: shot_038 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03. Objects: none detected.
+  WORDS: despite*[103230-103630] the[103630-104030] fact[104030-104170] that[104170-104310] you[104310-104430] know[104430-104490] you[104490-104630] got*[104630-104710] to[104710-104790] eat[104790-104930] you[104930-105110] know[105110-105170] you*[105170-105290] got[105290-105370] i[105370-105770] ordered*[105770-106050] chicken*[106050-106270]
+  AUDIO: none (1.00) [103230-106270] from audio-analysis
+
+[01:44.705] EVENT: scene cut
+[01:46.270-01:48.070] SPK_00: "anyway forget the chicken wings that was great"
+  VISUAL: shot_038 — actions inferred from sampled frames; On screen: PERSON_01. Objects: none detected.
+  WORDS: anyway[106270-106810] forget[106810-107070] the[107070-107230] chicken[107230-107390] wings[107390-107630] that[107630-107790] was[107790-107870] great[107870-108070]
+  AUDIO: none (1.00) [106270-108070] from audio-analysis
+
+[01:48.480-01:48.680] SOUND: non-speech transient (0.62)
+[01:48.508] EVENT: scene cut
+[01:48.690-01:54.920] SPK_00: "you have dancing sal"
+  VISUAL: shot_040 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04, PERSON_05. Objects: none detected.
+  WORDS: you*[108690-109090] have*[112320-112520] dancing[112520-113060] sal*[113060-114920]
+  AUDIO: none (1.00) [108690-114920] from audio-analysis
+
+[01:49.409] EVENT: scene cut
+[01:51.812] EVENT: scene cut
+[01:53.680] EVENT: scene cut
+[01:55.008-01:55.272] SOUND: non-speech transient (0.62)
+[01:55.500-02:01.620] SPK_00: "under your table's a bag of potato chips open it up and make it as loud as possible while you're opening it"
+  VISUAL: shot_044 — actions inferred from sampled frames; On screen: PERSON_01. Objects: none detected.
+  WORDS: under*[115500-115980] your[115980-116140] table's*[116140-116560] a[116560-116580] bag[116580-116800] of[116800-116920] potato[116920-117080] chips[117080-117600] open*[117600-118800] it[118800-119180] up[119180-119340] and[119340-119460] make[119460-119660] it[119660-119760] as[119760-119860] loud[119860-120120] as[120120-120300] possible[120300-120740] while[120740-120980] you're[120980-121120] opening[121120-121400] it[121400-121620]
+  AUDIO: none (1.00) [115500-121620] from audio-analysis
+
+[01:56.750] EVENT: scene cut
+[01:58.719] EVENT: scene cut
+[02:02.528-02:02.760] SOUND: non-speech transient (0.62)
+[02:02.944-02:03.272] SOUND: non-speech transient (0.62)
+[02:03.392-02:03.656] SOUND: non-speech transient (0.62)
+[02:03.924] EVENT: scene cut
+[02:04.990-02:08.430] SPK_00: "there you go right up to the mic right up to the mic"
+  VISUAL: shot_045 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04. Objects: none detected.
+  WORDS: there*[124990-125470] you[125470-125650] go[125650-125830] right*[125830-126030] up[126030-126150] to[126150-126230] the[126230-126350] mic[126350-126570] right*[126570-127790] up[127790-127950] to[127950-128090] the[128090-128190] mic[128190-128430]
+  AUDIO: none (1.00) [124990-128430] from audio-analysis
+
+[02:08.576-02:08.808] SOUND: non-speech transient (0.62)
+[02:08.795] EVENT: scene cut
+[02:10.664] EVENT: scene cut
+[02:12.566] EVENT: scene cut
+[02:13.984-02:14.248] SOUND: non-speech transient (0.62)
+[02:14.368] EVENT: scene cut
+[02:14.656-02:14.952] SOUND: non-speech transient (0.62)
+[02:15.104-02:15.304] SOUND: non-speech transient (0.62)
+[02:17.670-02:27.040] SPK_00: "great very nice that was good not great that was that was good not great"
+  VISUAL: shot_052 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03. Objects: none detected.
+  WORDS: great*[137670-138150] very[138150-138610] nice[138610-138970] that[138970-139490] was[139490-139690] good[139690-139910] not[139910-140130] great[140130-140430] that[140430-141330] was[143380-143840] that[143840-144560] was[144560-145020] good[145020-145460] not[145460-146740] great[146740-147040]
+  AUDIO: none (1.00) [137670-147040] from audio-analysis
+
+[02:17.671] EVENT: scene cut
+[02:19.272] EVENT: scene cut
+[02:20.574] EVENT: scene cut
+[02:26.880] EVENT: scene cut
+[02:28.224-02:28.424] SOUND: non-speech transient (0.62)
+[02:28.348] EVENT: scene cut
+[02:28.416-02:28.616] SOUND: non-speech transient (0.62)
+[02:28.640-02:28.840] SOUND: non-speech transient (0.62)
+[02:28.832-02:29.128] SOUND: non-speech transient (0.62)
+[02:29.504-02:29.864] SOUND: non-speech transient (0.62)
+[02:29.824-02:30.152] SOUND: non-speech transient (0.62)
+[02:30.208-02:30.408] SOUND: non-speech transient (0.62)
+[02:30.350] EVENT: scene cut
+[02:30.560-02:30.856] SOUND: non-speech transient (0.62)
+[02:32.032-02:32.264] SOUND: non-speech transient (0.62)
+[02:32.544-02:32.808] SOUND: non-speech transient (0.62)
+[02:32.896-02:33.192] SOUND: non-speech transient (0.62)
+[02:33.253] EVENT: scene cut
+[02:34.540-02:46.420] SPK_00: "next up we have jump rope so you jump"
+  VISUAL: shot_062 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04. Objects: none detected.
+  WORDS: next[154540-155020] up[155020-155300] we[155300-155500] have[155500-155740] jump[155740-156040] rope[156040-156300] so[156300-157360] you[165900-166080] jump[166080-166420]
+  AUDIO: none (1.00) [154540-166420] from audio-analysis
+
+[02:35.288] EVENT: scene cut
+[02:36.356] EVENT: scene cut
+[02:38.592] EVENT: scene cut
+[02:39.993] EVENT: scene cut
+[02:41.061] EVENT: scene cut
+[02:43.130] EVENT: scene cut
+[02:45.666] EVENT: scene cut
+[02:46.867] EVENT: scene cut
+[02:47.584-02:47.880] SOUND: non-speech transient (0.62)
+[02:48.032-02:48.296] SOUND: non-speech transient (0.62)
+[02:49.024-02:49.320] SOUND: non-speech transient (0.62)
+[02:49.248-02:49.544] SOUND: non-speech transient (0.62)
+[02:49.472-02:49.800] SOUND: non-speech transient (0.62)
+[02:50.208-02:50.504] SOUND: non-speech transient (0.62)
+[02:50.704] EVENT: scene cut
+[02:50.720-02:51.016] SOUND: non-speech transient (0.62)
+[02:50.976-02:51.272] SOUND: non-speech transient (0.62)
+[02:51.200-02:51.464] SOUND: non-speech transient (0.62)
+[02:51.660-02:54.580] SPK_00: "so uh you're telling us you jump"
+  VISUAL: shot_065 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03. Objects: none detected.
+  WORDS: so[171660-172140] uh[172140-172620] you're*[172620-173740] telling[173740-173960] us*[173960-174160] you[174160-174300] jump[174300-174580]
+  AUDIO: none (1.00) [171660-174580] from audio-analysis
+
+[02:54.741] EVENT: scene cut
+[02:54.860-02:58.940] SPK_00: "so you then you just jump then"
+  VISUAL: shot_067 — actions inferred from sampled frames; On screen: PERSON_01. Objects: none detected.
+  WORDS: so*[174860-175500] you*[177680-177860] then*[177860-178080] you[178080-178260] just[178260-178460] jump*[178460-178760] then*[178760-178940]
+  AUDIO: none (1.00) [174860-178940] from audio-analysis
+
+[02:56.710] EVENT: scene cut
+[02:59.379] EVENT: scene cut
+[02:59.616-02:59.912] SOUND: non-speech transient (0.62)
+[02:59.840-03:00.040] SOUND: non-speech transient (0.62)
+[03:00.040-03:03.080] SPK_00: "you ever see a kangaroo have you ever seen like a kangaroo"
+  VISUAL: shot_070 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03. Objects: none detected.
+  WORDS: you*[180040-180520] ever[180520-181000] see[181000-181140] a[181140-181240] kangaroo[181240-181600] have*[181600-181980] you[181980-182140] ever[182140-182240] seen[182240-182400] like[182400-182500] a[182500-182580] kangaroo[182580-183080]
+  AUDIO: none (1.00) [180040-183080] from audio-analysis
+
+[03:00.580] EVENT: scene cut
+[03:01.815] EVENT: scene cut
+[03:03.104-03:03.560] SOUND: non-speech transient (0.62)
+[03:03.417] EVENT: scene cut
+[03:03.960-03:06.860] SPK_00: "they jump they jump they don't get awards for it do they"
+  VISUAL: shot_073 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03. Objects: none detected.
+  WORDS: they[183960-184440] jump[184440-184820] they[184820-185220] jump[185220-185500] they[185500-185900] don't[185900-186020] get[186020-186100] awards[186100-186280] for[186280-186500] it[186500-186600] do[186600-186680] they[186680-186860]
+  AUDIO: none (1.00) [183960-186860] from audio-analysis
+
+[03:04.718] EVENT: scene cut
+[03:05.652] EVENT: scene cut
+[03:06.820] EVENT: scene cut
+[03:08.192-03:08.424] SOUND: non-speech transient (0.62)
+[03:08.422] EVENT: scene cut
+[03:08.736-03:09.096] SOUND: non-speech transient (0.62)
+[03:09.600-03:09.832] SOUND: non-speech transient (0.62)
+[03:10.080-03:12.780] SPK_00: "they don't get awards for it though do they"
+  VISUAL: shot_076 — actions inferred from sampled frames; On screen: PERSON_01. Objects: none detected.
+  WORDS: they[190080-190560] don't[190560-191040] get[191040-191200] awards[191200-191420] for[191420-191640] it[191640-191800] though[191800-191980] do[191980-192520] they[192520-192780]
+  AUDIO: none (1.00) [190080-192780] from audio-analysis
+
+[03:10.090] EVENT: scene cut
+[03:12.959] EVENT: scene cut
+[03:13.216-03:13.512] SOUND: non-speech transient (0.62)
+[03:13.664-03:13.864] SOUND: non-speech transient (0.62)
+[03:13.994] EVENT: scene cut
+[03:14.300-03:25.560] SPK_00: "the audience is shooting you daggers thank you next up we have martial arts"
+  VISUAL: shot_080 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04, PERSON_05. Objects: none detected.
+  WORDS: the[194300-194780] audience[194780-195260] is[195260-195460] shooting[195460-195840] you[195840-196080] daggers[196080-196720] thank[196720-197940] you[197940-198120] next[198120-199240] up*[204040-204320] we[204320-204500] have[204500-204700] martial*[204700-205020] arts[205020-205560]
+  AUDIO: none (1.00) [194300-205560] from audio-analysis
+
+[03:15.295] EVENT: scene cut
+[03:17.330] EVENT: scene cut
+[03:20.233] EVENT: scene cut
+[03:21.201] EVENT: scene cut
+[03:22.169] EVENT: scene cut
+[03:24.671] EVENT: scene cut
+[03:26.160-03:33.920] SPK_00: "last one last one buddy last one damn look at that landing it's got some good form"
+  VISUAL: shot_086 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03. Objects: none detected.
+  WORDS: last[206160-206400] one[206400-206620] last[206620-206860] one[206860-207080] buddy[207080-207400] last[207400-207720] one[207720-208020] damn[208020-208700] look[212220-212580] at[212580-212620] that[212620-212720] landing[212720-213020] it's*[213020-213240] got[213240-213360] some[213360-213460] good[213460-213660] form[213660-213920]
+  AUDIO: none (1.00) [206160-213920] from audio-analysis
+
+[03:26.540] EVENT: scene cut
+[03:28.475] EVENT: scene cut
+[03:31.578] EVENT: scene cut
+[03:32.446] EVENT: scene cut
+[03:33.920-03:34.312] SOUND: non-speech transient (0.62)
+[03:34.047] EVENT: scene cut
+[03:35.584-03:35.880] SOUND: non-speech transient (0.62)
+[03:35.936-03:36.232] SOUND: non-speech transient (0.62)
+[03:36.283] EVENT: scene cut
+[03:36.288-03:36.584] SOUND: non-speech transient (0.62)
+[03:36.640-03:36.936] SOUND: non-speech transient (0.62)
+[03:37.408-03:37.736] SOUND: non-speech transient (0.62)
+[03:37.751] EVENT: scene cut
+[03:37.792-03:38.088] SOUND: non-speech transient (0.62)
+[03:38.464-03:38.984] SOUND: non-speech transient (0.62)
+[03:41.152-03:41.416] SOUND: non-speech transient (0.62)
+[03:41.790-03:42.510] SPK_00: "damn look at that landing it's got some good form" (voiceover)
+  VISUAL: shot_092 — actions inferred from sampled frames; On screen: none detected. Objects: none detected.
+  WORDS: damn*[221790-222270] look*[222270-222510]
+  AUDIO: none (1.00) [221790-222510] from audio-analysis
+
+[03:42.022] EVENT: scene cut
+[03:42.510-03:45.510] SPK_00: "you want to get up and do some karate moves sal show them your moves"
+  VISUAL: shot_093 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03. Objects: none detected.
+  WORDS: want*[222510-222610] to[222610-222670] get[222670-222770] up[222770-222850] and[222850-222910] do[222910-223010] some[223010-223130] karate[223130-223370] moves[223370-223650] sal*[223650-224810] show*[224810-225070] them*[225070-225230] your*[225230-225350] moves*[225350-225510]
+  AUDIO: none (1.00) [222510-225510] from audio-analysis
+
+[03:43.757] EVENT: scene cut
+[03:46.059] EVENT: scene cut
+[03:47.661] EVENT: scene cut
+[03:48.660-03:49.380] SPK_00: "watch this"
+  VISUAL: shot_095 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04. Objects: none detected.
+  WORDS: watch*[228660-229020] this[229020-229380]
+  AUDIO: none (1.00) [228660-229380] from audio-analysis
+
+[03:50.497] EVENT: scene cut
+[03:51.360-04:14.710] SPK_00: "i could take you in a fight"
+  VISUAL: shot_097 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04, PERSON_05, PERSON_06, PERSON_07, PERSON_08. Objects: none detected.
+  WORDS: i*[231360-231720] could[253710-254070] take[254070-254250] you*[254250-254410] in[254410-254490] fight[254490-254710]
+  AUDIO: none (1.00) [231360-254710] from audio-analysis
+
+[03:53.567] EVENT: scene cut
+[03:57.971] EVENT: scene cut
+[03:59.372] EVENT: scene cut
+[04:02.342] EVENT: scene cut
+[04:16.590-04:18.470] SPK_00: "i could take you in a fight we know that"
+  VISUAL: shot_106 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02, PERSON_03, PERSON_04. Objects: none detected.
+  WORDS: i[256590-256950] could*[256950-257310] take[257310-257490] you[257490-257610] in[257610-257730] a[257730-257770] fight[257770-257990] we[257990-258190] know[258190-258270] that[258270-258470]
+  AUDIO: none (1.00) [256590-258470] from audio-analysis
+
+[04:19.150-04:19.510] SPK_00: "no" (whisper) (voiceover)
+  VISUAL: shot_107 — actions inferred from sampled frames; On screen: none detected. Objects: none detected.
+  WORDS: no*[259150-259510]
+  AUDIO: none (1.00) [259150-259510] from audio-analysis
+
+[04:21.310-04:22.330] SPK_00: "and they clapped"
+  VISUAL: shot_109 — actions inferred from sampled frames; On screen: PERSON_01, PERSON_02. Objects: none detected.
+  WORDS: and*[261310-261670] they[261670-261850] clapped*[261850-262330]
+  AUDIO: none (1.00) [261310-262330] from audio-analysis
+
+================================================================================
+QUALITY:
+  Q unintelligible 0-1 — pyannote skipped: HF_TOKEN unavailable or package missing
+  Q asr_low_conf 1940-11560 — segment mean conf 0.856
+  Q asr_low_conf 11560-23100 — segment mean conf 0.871
+  Q asr_low_conf 35580-47910 — segment mean conf 0.775
+  Q asr_low_conf 82130-86110 — segment mean conf 0.804
+  Q asr_low_conf 103230-106270 — segment mean conf 0.862
+  Q asr_low_conf 108690-114920 — segment mean conf 0.364
+  Q asr_low_conf 115500-121620 — segment mean conf 0.882
+  Q asr_low_conf 124990-128430 — segment mean conf 0.882
+  Q asr_low_conf 174860-178940 — segment mean conf 0.572
+  Q asr_low_conf 221790-222510 — segment mean conf 0.356
+  Q asr_low_conf 222510-225510 — segment mean conf 0.806
+  Q asr_low_conf 228660-229380 — segment mean conf 0.647
+  Q asr_low_conf 231360-254710 — segment mean conf 0.860
+  Q asr_low_conf 259150-259510 — segment mean conf 0.287
+  Q asr_low_conf 261310-262330 — segment mean conf 0.855
+  Q unintelligible 0-1 — whisperx failed: Requested float16 compute type, but the target device or backend do not support efficient float16 computation.
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+  Q unintelligible 0-1 — yolo frame failed: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrac
+NOTES:
+  X gpu_audio(cuda:0) gpu_vision(cuda:1) video_title(XOcm-InX80Y)
+CUT POINTS (ms): 10510 14381 21889 23824 24958 27828 32199 35502 37237 39106 40908 48782 50884 52552 54888 56023 57291 59326 60994 62729 64431 67568 69670 73206 74608 76977 79513 82215 86253 87554 89389 91158 93060 94494 96129 100934 102803 104705 108508 109409 111812 113680 116750 118719 123924 128795 130664 132566 134368 137671 139272 140574 146880 148348 150350 153253 155288 156356 158592 159993 161061 163130 165666 166867 170704 174741 176710 179379 180580 181815 183417 184718 185652 186820 188422 190090 192959 193994 195295 197330 200233 201201 202169 204671 206540 208475 211578 212446 214047 216283 217751 222022 223757 226059 227661 230497 233567 237971 239372 242342 245445 248381 250817 252352 253653 254821 258792 259893 261128 264598 266133 270370 272739
