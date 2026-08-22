@@ -1,0 +1,151 @@
+[{"stream_name":"stdout","time":1.065204461,"data":"[23:24:33] Installing 10 missing packages\n"}
+,{"stream_name":"stdout","time":3.9263551740000002,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 183.7/183.7 kB 6.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":4.767045922,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 45.7/45.7 kB 3.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stderr","time":4.991160619,"data":"WARNING: scenedetect 0.7.1 does not provide the extra 'opencv'\n"}
+,{"stream_name":"stdout","time":6.874851041,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 44.8/44.8 kB 3.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":12.838267064,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 44.0/44.0 kB 3.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":14.305680947,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.2/3.2 MB 65.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":14.342604106,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 47.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":14.496891778,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.5/16.5 MB 93.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":14.532020009,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 894.6/894.6 kB 47.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":14.584159492,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 762.2/762.2 kB 44.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":16.670841837,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 202.2/202.2 MB 9.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":16.709046068,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.4/1.4 MB 67.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":16.990604495,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 35.8/35.8 MB 59.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.328925356,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 39.5/39.5 MB 53.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.358310464,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 566.4/566.4 kB 35.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.391630961,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 848.6/848.6 kB 48.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.554444069,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.7/16.7 MB 90.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.769282143,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 23.1/23.1 MB 77.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.873321143,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 72.5/72.5 kB 6.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.896884943,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 137.2/137.2 kB 11.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.918831408,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 60.0/60.0 kB 5.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.942290163,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 204.6/204.6 kB 17.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.964046726,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 57.5/57.5 kB 4.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.985617965,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 53.7/53.7 kB 4.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.010697905,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 52.1/52.1 kB 3.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.076765948,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 127.8/127.8 kB 11.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":26.722762702,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 887.9/887.9 MB 2.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.002936068,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 155.6/155.6 MB 6.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":32.194786578,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 322.4/322.4 MB 5.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":32.870537276,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 48.5/48.5 kB 57.7 kB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":32.935968196,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.0/4.0 MB 87.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":32.973259043,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.4/1.4 MB 70.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":33.088697013,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.6/8.6 MB 86.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":33.221889744,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.0/12.0 MB 93.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":33.248278591,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 63.5/63.5 kB 4.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":33.292868076,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 146.2/146.2 kB 11.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":33.393849024,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.9/3.9 MB 89.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":34.03313115,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 59.9/59.9 MB 31.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stderr","time":129.011360844,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":129.011396583,"data":"bigframes 2.39.0 requires google-cloud-bigquery-storage\u003c3.0.0,\u003e=2.30.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":129.011402511,"data":"google-adk 1.29.0 requires google-cloud-bigquery-storage\u003e=2.0.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":129.011407143,"data":"ydata-profiling 4.18.4 requires numba\u003c0.63,\u003e=0.60, but you have numba 0.67.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":129.011411692,"data":"ydata-profiling 4.18.4 requires numpy\u003c2.4,\u003e=1.22, but you have numpy 2.5.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":129.011416383,"data":"google-colab 1.0.0 requires jupyter-server==2.14.0, but you have jupyter-server 2.12.5 which is incompatible.\n"}
+,{"stream_name":"stderr","time":129.011420724,"data":"google-colab 1.0.0 requires pandas==2.2.2, but you have pandas 2.3.3 which is incompatible.\n"}
+,{"stream_name":"stderr","time":129.011425243,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":129.011429443,"data":"moviepy 1.0.3 requires decorator\u003c5.0,\u003e=4.0.2, but you have decorator 5.3.1 which is incompatible.\n"}
+,{"stream_name":"stderr","time":129.011433757,"data":"cuml-cu12 26.2.0 requires numba\u003c0.62.0,\u003e=0.60.0, but you have numba 0.67.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":129.011438504,"data":"cudf-cu12 26.2.1 requires numba\u003c0.62.0,\u003e=0.60.0, but you have numba 0.67.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":129.011442809,"data":"google-adk 1.29.0 requires opentelemetry-api\u003c1.39.0,\u003e=1.36.0, but you have opentelemetry-api 1.44.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":129.011447556,"data":"google-adk 1.29.0 requires opentelemetry-sdk\u003c1.39.0,\u003e=1.36.0, but you have opentelemetry-sdk 1.44.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":129.011452155,"data":"opentelemetry-exporter-gcp-logging 1.11.0a0 requires opentelemetry-sdk\u003c1.39.0,\u003e=1.35.0, but you have opentelemetry-sdk 1.44.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":132.58422917,"data":"/usr/local/lib/python3.12/dist-packages/torch/cuda/__init__.py:283: UserWarning: \n"}
+,{"stream_name":"stderr","time":132.584264217,"data":"    Found GPU0 Tesla P100-PCIE-16GB which is of cuda capability 6.0.\n"}
+,{"stream_name":"stderr","time":132.584268445,"data":"    Minimum and Maximum cuda capability supported by this version of PyTorch is\n"}
+,{"stream_name":"stderr","time":132.584272021,"data":"    (7.0) - (12.0)\n"}
+,{"stream_name":"stderr","time":132.584275016,"data":"    \n"}
+,{"stream_name":"stderr","time":132.584277967,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":132.584280859,"data":"/usr/local/lib/python3.12/dist-packages/torch/cuda/__init__.py:304: UserWarning: \n"}
+,{"stream_name":"stderr","time":132.584283871,"data":"    Please install PyTorch with a following CUDA\n"}
+,{"stream_name":"stderr","time":132.584296292,"data":"    configurations:  12.6 following instructions at\n"}
+,{"stream_name":"stderr","time":132.584298958,"data":"    https://pytorch.org/get-started/locally/\n"}
+,{"stream_name":"stderr","time":132.584301165,"data":"    \n"}
+,{"stream_name":"stderr","time":132.58430341,"data":"  warnings.warn(matched_cuda_warn.format(matched_arches))\n"}
+,{"stream_name":"stderr","time":132.584581205,"data":"/usr/local/lib/python3.12/dist-packages/torch/cuda/__init__.py:326: UserWarning: \n"}
+,{"stream_name":"stderr","time":132.584590152,"data":"Tesla P100-PCIE-16GB with CUDA capability sm_60 is not compatible with the current PyTorch installation.\n"}
+,{"stream_name":"stderr","time":132.584594103,"data":"The current PyTorch install supports CUDA capabilities sm_70 sm_75 sm_80 sm_86 sm_90 sm_100 sm_120.\n"}
+,{"stream_name":"stderr","time":132.584597617,"data":"If you want to use the Tesla P100-PCIE-16GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/\n"}
+,{"stream_name":"stderr","time":132.58460196,"data":"\n"}
+,{"stream_name":"stderr","time":132.584605707,"data":"  warnings.warn(\n"}
+,{"stream_name":"stdout","time":132.585206495,"data":"[23:26:44] Warning: fewer than two CUDA devices detected\n"}
+,{"stream_name":"stdout","time":133.846458741,"data":"[generic] Extracting URL: https://raw.githubusercontent.com/akashtavern-art/quantum-neural-holographic-consciousness-matrix..._dlp/XOcm-InX80Y.mp4\n"}
+,{"stream_name":"stdout","time":133.846485826,"data":"[generic] XOcm-InX80Y: Downloading webpage\n"}
+,{"stream_name":"stderr","time":134.386886023,"data":"WARNING: [generic] Falling back on generic information extractor\n"}
+,{"stream_name":"stderr","time":134.387260457,"data":"WARNING: [generic] URL could be a direct video link, returning it as such.\n"}
+,{"stream_name":"stdout","time":134.39191367,"data":"[info] XOcm-InX80Y: Downloading 1 format(s): 0\n"}
+,{"stream_name":"stdout","time":134.456496329,"data":"[download] Destination: /kaggle/working/media/source.mp4\n"}
+,{"stream_name":"stdout","time":134.584975882,"data":"\r[download]   0.0% of   18.74MiB at  Unknown B/s ETA Unknown\r[download]   0.0% of   18.74MiB at    2.62MiB/s ETA 00:07  \r[download]   0.0% of   18.74MiB at    4.06MiB/s ETA 00:04\r[download]   0.1% of   18.74MiB at    6.41MiB/s ETA 00:02\r[download]   0.2% of   18.74MiB at   10.28MiB/s ETA 00:01\r[download]   0.3% of   18.74MiB at    6.77MiB/s ETA 00:02\r[download]   0.7% of   18.74MiB at    7.42MiB/s ETA 00:02\r[download]   1.3% of   18.74MiB at   10.05MiB/s ETA 00:01\r[download]   2.7% of   18.74MiB at   15.03MiB/s ETA 00:01\r[download]   5.3% of   18.74MiB at   23.80MiB/s ETA 00:00\r[download]  10.7% of   18.74MiB at   39.10MiB/s ETA 00:00\r[download]  21.3% of   18.74MiB at   65.75MiB/s ETA 00:00\r[download]  42.7% of   18.74MiB at   98.85MiB/s ETA 00:00\r[download]  64.0% of   18.74MiB at  123.22MiB/s ETA 00:00\r[download]  85.4% of   18.74MiB at  141.16MiB/s ETA 00:00\r[download] 100.0% of   18.74MiB at  158.92MiB/s ETA 00:00\r[download] 100% of   18.74MiB in 00:00:00 at 98.74MiB/s  \n"}
+,{"stream_name":"stdout","time":135.943674393,"data":"[23:26:47] GPU0 audio: WhisperX ASR started\n"}
+,{"stream_name":"stderr","time":136.235758811,"data":"/usr/local/lib/python3.12/dist-packages/moviepy/video/io/ffmpeg_reader.py:294: SyntaxWarning: invalid escape sequence '\\d'\n"}
+,{"stream_name":"stderr","time":136.235791021,"data":"  lines_video = [l for l in lines if ' Video: ' in l and re.search('\\d+x\\d+', l)]\n"}
+,{"stream_name":"stderr","time":136.236191471,"data":"/usr/local/lib/python3.12/dist-packages/moviepy/video/io/ffmpeg_reader.py:367: SyntaxWarning: invalid escape sequence '\\d'\n"}
+,{"stream_name":"stderr","time":136.236206254,"data":"  rotation_lines = [l for l in lines if 'rotate          :' in l and re.search('\\d+$', l)]\n"}
+,{"stream_name":"stderr","time":136.23625315,"data":"/usr/local/lib/python3.12/dist-packages/moviepy/video/io/ffmpeg_reader.py:370: SyntaxWarning: invalid escape sequence '\\d'\n"}
+,{"stream_name":"stderr","time":136.236270486,"data":"  match = re.search('\\d+$', rotation_line)\n"}
+,{"stream_name":"stderr","time":136.243451734,"data":"/usr/local/lib/python3.12/dist-packages/moviepy/config_defaults.py:47: SyntaxWarning: invalid escape sequence '\\P'\n"}
+,{"stream_name":"stderr","time":136.243467584,"data":"  IMAGEMAGICK_BINARY = r\"C:\\Program Files\\ImageMagick-6.8.8-Q16\\magick.exe\"\n"}
+,{"stream_name":"stdout","time":136.498341347,"data":"[23:26:48] GPU1 vision: scene detection started\n"}
+,{"stream_name":"stderr","time":169.370721235,"data":"WARNING:py.warnings:/kaggle/src/script.py:427: DeprecationWarning: get_seconds() is deprecated, use the `seconds` property instead.\n"}
+,{"stream_name":"stderr","time":169.370754604,"data":"  s_ms = seconds_to_ms(start.get_seconds())\n"}
+,{"stream_name":"stderr","time":169.370760407,"data":"\n"}
+,{"stream_name":"stderr","time":169.370827468,"data":"WARNING:py.warnings:/kaggle/src/script.py:428: DeprecationWarning: get_seconds() is deprecated, use the `seconds` property instead.\n"}
+,{"stream_name":"stderr","time":169.370834843,"data":"  e_ms = seconds_to_ms(end.get_seconds())\n"}
+,{"stream_name":"stderr","time":169.370839466,"data":"\n"}
+,{"stream_name":"stdout","time":170.511417194,"data":"download_path: /root/.insightface/models/buffalo_l\n"}
+,{"stream_name":"stdout","time":170.511631102,"data":"Downloading /root/.insightface/models/buffalo_l.zip from https://github.com/deepinsight/insightface/releases/download/v0.7/buffalo_l.zip...\n"}
+,{"stream_name":"stderr","time":176.385407677,"data":"\r  0%|          | 0/281857 [00:00\u003c?, ?KB/s]\r  1%|          | 1785/281857 [00:00\u003c00:15, 17807.69KB/s]\r  2%|▏         | 4533/281857 [00:00\u003c00:11, 23469.64KB/s]\r  2%|▏         | 6881/281857 [00:00\u003c00:18, 14598.49KB/s]\r  3%|▎         | 8973/281857 [00:00\u003c00:16, 16341.49KB/s]\r  4%|▍         | 10836/281857 [00:00\u003c00:16, 16512.75KB/s]\r  5%|▌         | 14328/281857 [00:00\u003c00:12, 21802.55KB/s]\r  7%|▋         | 18339/281857 [00:00\u003c00:09, 27130.06KB/s]\r  8%|▊         | 22461/281857 [00:00\u003c00:08, 31265.12KB/s]\r 10%|█         | 28449/281857 [00:01\u003c00:06, 39720.30KB/s]\r 12%|█▏        | 32803/281857 [00:01\u003c00:06, 40850.11KB/s]\r 13%|█▎        | 37007/281857 [00:01\u003c00:07, 30885.81KB/s]\r 15%|█▍        | 40899/281857 [00:01\u003c00:07, 32827.77KB/s]\r 16%|█▌        | 45433/281857 [00:01\u003c00:06, 35989.22KB/s]\r 18%|█▊        | 49334/281857 [00:01\u003c00:06, 35279.73KB/s]\r 19%|█▉        | 53072/281857 [00:01\u003c00:06, 34361.74KB/s]\r 20%|██        | 56654/281857 [00:01\u003c00:07, 31135.98KB/s]\r 21%|██▏       | 60559/281857 [00:02\u003c00:06, 33161.79KB/s]\r 23%|██▎       | 64817/281857 [00:02\u003c00:06, 35628.20KB/s]\r 24%|██▍       | 68504/281857 [00:02\u003c00:06, 33160.08KB/s]\r 26%|██▌       | 71931/281857 [00:02\u003c00:06, 31777.91KB/s]\r 27%|██▋       | 75188/281857 [00:02\u003c00:06, 31413.23KB/s]\r 28%|██▊       | 78693/281857 [00:02\u003c00:06, 32251.50KB/s]\r 29%|██▉       | 81963/281857 [00:02\u003c00:06, 31681.58KB/s]\r 31%|███       | 86082/281857 [00:02\u003c00:05, 34346.51KB/s]\r 32%|███▏      | 90806/281857 [00:02\u003c00:05, 37889.62KB/s]\r 34%|███▎      | 94637/281857 [00:03\u003c00:05, 36749.19KB/s]\r 35%|███▍      | 98346/281857 [00:03\u003c00:06, 29167.63KB/s]\r 36%|███▌      | 101665/281857 [00:03\u003c00:06, 29953.52KB/s]\r 37%|███▋      | 104858/281857 [00:03\u003c00:06, 29065.44KB/s]\r 38%|███▊      | 107900/281857 [00:03\u003c00:06, 27912.91KB/s]\r 42%|████▏     | 119070/281857 [00:03\u003c00:03, 49722.99KB/s]\r 45%|████▌     | 127874/281857 [00:03\u003c00:02, 60104.82KB/s]\r 48%|████▊     | 134274/281857 [00:03\u003c00:02, 56908.23KB/s]\r 50%|█████     | 142097/281857 [00:03\u003c00:02, 62671.27KB/s]\r 53%|█████▎    | 148995/281857 [00:04\u003c00:02, 64425.77KB/s]\r 56%|█████▌    | 157646/281857 [00:04\u003c00:01, 70707.53KB/s]\r 59%|█████▉    | 167222/281857 [00:04\u003c00:01, 77946.97KB/s]\r 63%|██████▎   | 176864/281857 [00:04\u003c00:01, 83344.89KB/s]\r 66%|██████▌   | 186525/281857 [00:04\u003c00:01, 87250.84KB/s]\r 70%|██████▉   | 195989/281857 [00:04\u003c00:00, 89435.57KB/s]\r 73%|███████▎  | 205325/281857 [00:04\u003c00:00, 90600.61KB/s]\r 76%|███████▌  | 214433/281857 [00:04\u003c00:00, 89746.57KB/s]\r 79%|███████▉  | 223443/281857 [00:04\u003c00:00, 86648.16KB/s]\r 82%|████████▏ | 232153/281857 [00:05\u003c00:00, 84904.09KB/s]\r 85%|████████▌ | 240679/281857 [00:05\u003c00:00, 83256.96KB/s]\r 88%|████████▊ | 249031/281857 [00:05\u003c00:00, 82861.33KB/s]\r 91%|█████████▏| 257335/281857 [00:05\u003c00:00, 82432.54KB/s]\r 94%|█████████▍| 265600/281857 [00:05\u003c00:00, 82493.93KB/s]\r 97%|█████████▋| 273858/281857 [00:05\u003c00:00, 74734.07KB/s]\r100%|██████████| 281857/281857 [00:05\u003c00:00, 49972.38KB/s]\n"}
+,{"stream_name":"stderr","time":179.161523001,"data":"WARNING:py.warnings:/usr/local/lib/python3.12/dist-packages/onnxruntime/capi/onnxruntime_inference_collection.py:153: UserWarning: Specified provider 'CUDAExecutionProvider' is not in available provider names.Available providers: 'AzureExecutionProvider, CPUExecutionProvider'\n"}
+,{"stream_name":"stderr","time":179.161610621,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":179.161620157,"data":"\n"}
+,{"stream_name":"stdout","time":180.233240263,"data":"Applied providers: ['CPUExecutionProvider'], with options: {'CPUExecutionProvider': {}}\n"}
+,{"stream_name":"stdout","time":180.545282445,"data":"find model: /root/.insightface/models/buffalo_l/1k3d68.onnx landmark_3d_68 ['None', 3, 192, 192] 0.0 1.0\n"}
+,{"stream_name":"stdout","time":180.608376666,"data":"Applied providers: ['CPUExecutionProvider'], with options: {'CPUExecutionProvider': {}}\n"}
+,{"stream_name":"stdout","time":180.619788159,"data":"find model: /root/.insightface/models/buffalo_l/2d106det.onnx landmark_2d_106 ['None', 3, 192, 192] 0.0 1.0\n"}
+,{"stream_name":"stdout","time":180.775040437,"data":"Applied providers: ['CPUExecutionProvider'], with options: {'CPUExecutionProvider': {}}\n"}
+,{"stream_name":"stdout","time":180.775164478,"data":"find model: /root/.insightface/models/buffalo_l/det_10g.onnx detection [1, 3, '?', '?'] 127.5 128.0\n"}
+,{"stream_name":"stdout","time":180.822514234,"data":"Applied providers: ['CPUExecutionProvider'], with options: {'CPUExecutionProvider': {}}\n"}
+,{"stream_name":"stdout","time":180.832435478,"data":"find model: /root/.insightface/models/buffalo_l/genderage.onnx genderage ['None', 3, 96, 96] 0.0 1.0\n"}
+,{"stream_name":"stdout","time":182.631903614,"data":"Applied providers: ['CPUExecutionProvider'], with options: {'CPUExecutionProvider': {}}\n"}
+,{"stream_name":"stdout","time":183.177131262,"data":"find model: /root/.insightface/models/buffalo_l/w600k_r50.onnx recognition ['None', 3, 112, 112] 127.5 127.5\n"}
+,{"stream_name":"stdout","time":183.177184537,"data":"set det-size: (640, 640)\n"}
+,{"stream_name":"stdout","time":183.253373548,"data":"Creating new Ultralytics Settings v0.0.7 file ✅ \n"}
+,{"stream_name":"stdout","time":183.253401044,"data":"View Ultralytics Settings with 'yolo settings' or at '/root/.config/Ultralytics/settings.json'\n"}
+,{"stream_name":"stdout","time":183.25341355,"data":"Update Settings with 'yolo settings key=value', i.e. 'yolo settings runs_dir=path/to/dir'. For help see https://docs.ultralytics.com/quickstart#ultralytics-settings.\n"}
+,{"stream_name":"stdout","time":183.787656196,"data":"\r\u001b[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 100% ━━━━━━━━━━━━ 6.2MB 90.3MB/s 0.1s\n"}
+,{"stream_name":"stdout","time":198.493189858,"data":"[23:27:50] GPU0 audio: fallback faster-whisper started\n"}
+,{"stream_name":"stderr","time":249.105654295,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":249.105806735,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":250.875205421,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":250.875241234,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":252.533215915,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":252.533305407,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":275.068185116,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":275.068256958,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":276.24852557,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":276.248562561,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":312.338909503,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":313.107888704,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":349.512494581,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":437.715210209,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":478.281307054,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":478.281419142,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":479.485800691,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":479.485843781,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":486.201665482,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":486.201825541,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":486.988250712,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":486.98828514,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":487.848113803,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":487.848155315,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":488.743254064,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stderr","time":488.743297829,"data":"[h264 @ 0x7ff4a41ed940] mmco: unref short failure\n"}
+,{"stream_name":"stdout","time":723.865497284,"data":"[23:36:35] Finished with status valid in 723.072s\n"}
+,{"stream_name":"stderr","time":730.003534987,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":730.003585843,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":730.225771215,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":730.225805356,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":730.960752623,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":731.940794404,"data":"[NbConvertApp] Writing 514307 bytes to __results__.html\n"}
+]
