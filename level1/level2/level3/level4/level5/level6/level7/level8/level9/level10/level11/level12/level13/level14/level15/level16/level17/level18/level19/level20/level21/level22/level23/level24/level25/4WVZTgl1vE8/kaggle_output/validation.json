@@ -1,0 +1,7 @@
+{
+  "valid": false,
+  "errors": [
+    "strict_t4x2 requested but Kaggle assigned {'count': 1, 'devices': ['Tesla P100-PCIE-16GB'], 'error': None}"
+  ],
+  "checked_at": "2026-08-23T00:15:09Z"
+}
