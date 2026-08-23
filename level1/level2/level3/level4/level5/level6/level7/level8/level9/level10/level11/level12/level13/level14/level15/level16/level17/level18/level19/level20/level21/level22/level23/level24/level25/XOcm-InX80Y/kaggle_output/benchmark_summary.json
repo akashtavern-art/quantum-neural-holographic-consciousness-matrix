@@ -262,7 +262,7 @@
       ]
     }
   },
-  "fatal_error": "strict_t4x2 requested but Kaggle assigned {'count': 1, 'devices': ['Tesla P100-PCIE-16GB'], 'error': None}",
-  "traceback": "Traceback (most recent call last):\n  File \"/kaggle/src/script.py\", line 924, in main\n    raise RuntimeError(f\"strict_t4x2 requested but Kaggle assigned {benchmark['gpu']}\")\nRuntimeError: strict_t4x2 requested but Kaggle assigned {'count': 1, 'devices': ['Tesla P100-PCIE-16GB'], 'error': None}\n",
-  "total_seconds": 10.765
+  "fatal_error": "strict_t4x2 requested dual NvidiaTeslaT4 but Kaggle assigned {'count': 1, 'devices': ['Tesla P100-PCIE-16GB'], 'error': None}",
+  "traceback": "Traceback (most recent call last):\n  File \"/kaggle/src/script.py\", line 924, in main\n    raise RuntimeError(f\"strict_t4x2 requested dual NvidiaTeslaT4 but Kaggle assigned {benchmark['gpu']}\")\nRuntimeError: strict_t4x2 requested dual NvidiaTeslaT4 but Kaggle assigned {'count': 1, 'devices': ['Tesla P100-PCIE-16GB'], 'error': None}\n",
+  "total_seconds": 5.346
 }
