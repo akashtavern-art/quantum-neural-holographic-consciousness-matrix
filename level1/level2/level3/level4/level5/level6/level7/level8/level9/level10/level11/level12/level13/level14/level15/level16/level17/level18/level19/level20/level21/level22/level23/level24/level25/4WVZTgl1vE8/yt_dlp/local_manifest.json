@@ -196,7 +196,7 @@
     },
     {
       "path": "4WVZTgl1vE8.info.json",
-      "bytes": 38312
+      "bytes": 38253
     },
     {
       "path": "4WVZTgl1vE8.mp4",
@@ -212,7 +212,7 @@
     },
     {
       "path": "local_manifest.json",
-      "bytes": 3758
+      "bytes": 4068
     },
     {
       "path": "yt_dlp_download.log",
@@ -220,7 +220,7 @@
     },
     {
       "path": "yt_info_full.json",
-      "bytes": 49565
+      "bytes": 49572
     }
   ]
 }

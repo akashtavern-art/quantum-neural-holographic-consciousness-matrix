@@ -1,5 +1,5 @@
 Extracting cookies from chrome
-Extracted 1533 cookies from chrome
+Extracted 1532 cookies from chrome
 [youtube] Extracting URL: https://www.youtube.com/watch?v=4WVZTgl1vE8
 [youtube] 4WVZTgl1vE8: Downloading webpage
 [youtube] 4WVZTgl1vE8: Downloading web safari client config
@@ -176,25 +176,25 @@ Deleting existing file /Users/akash/Documents/all_rounder_yt_automation/runs/4WV
 [ThumbnailsConvertor] Converting thumbnail "/Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.43.webp" to jpg
 [ThumbnailsConvertor] Not converting thumbnail "/Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.44.jpg"; already is in target format jpg
 [ThumbnailsConvertor] Converting thumbnail "/Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.45.webp" to jpg
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.41.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.11.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.43.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.3.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.21.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.23.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.25.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.27.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.1.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.19.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.7.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.5.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.39.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.13.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.15.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.9.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.17.webp (pass -k to keep)
-Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.45.webp (pass -k to keep)
 Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.29.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.19.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.39.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.3.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.13.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.9.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.21.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.25.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.23.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.7.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.45.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.41.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.1.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.5.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.17.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.15.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.43.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.27.webp (pass -k to keep)
+Deleting original file /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.11.webp (pass -k to keep)
 [download] /Users/akash/Documents/all_rounder_yt_automation/runs/4WVZTgl1vE8/yt_dlp/4WVZTgl1vE8.mp4 has already been downloaded
 
 [download] 100% of   10.08MiB
