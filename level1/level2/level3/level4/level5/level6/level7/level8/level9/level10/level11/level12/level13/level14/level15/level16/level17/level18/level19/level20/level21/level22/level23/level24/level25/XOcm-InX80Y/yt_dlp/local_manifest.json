@@ -3,6 +3,8 @@
   "url": "https://www.youtube.com/watch?v=XOcm-InX80Y",
   "title": "Impractical Jokers - Talent Show Dream Destroyer (Punishment) | truTV",
   "duration": 278,
+  "normalized_media": "XOcm-InX80Y.normalized.mp4",
+  "normalization_warning_count": 0,
   "files": [
     {
       "path": "XOcm-InX80Y.0.jpg",
@@ -202,19 +204,31 @@
     },
     {
       "path": "XOcm-InX80Y.info.json",
-      "bytes": 45757
+      "bytes": 45764
     },
     {
       "path": "XOcm-InX80Y.mp4",
       "bytes": 19651175
     },
     {
+      "path": "XOcm-InX80Y.normalized.mp4",
+      "bytes": 52275710
+    },
+    {
+      "path": "ffmpeg_normalize.log",
+      "bytes": 7942
+    },
+    {
+      "path": "local_manifest.json",
+      "bytes": 4206
+    },
+    {
       "path": "yt_dlp_download.log",
-      "bytes": 61775
+      "bytes": 22591
     },
     {
       "path": "yt_info_full.json",
-      "bytes": 58052
+      "bytes": 57981
     }
   ]
 }

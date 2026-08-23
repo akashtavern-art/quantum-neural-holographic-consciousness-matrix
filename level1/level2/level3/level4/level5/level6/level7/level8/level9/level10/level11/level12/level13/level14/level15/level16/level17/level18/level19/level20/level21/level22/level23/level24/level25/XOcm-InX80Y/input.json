@@ -220,7 +220,7 @@
       },
       {
         "path": "XOcm-InX80Y.info.json",
-        "bytes": 45449
+        "bytes": 45764
       },
       {
         "path": "XOcm-InX80Y.mp4",
@@ -232,11 +232,11 @@
       },
       {
         "path": "ffmpeg_normalize.log",
-        "bytes": 8060
+        "bytes": 7942
       },
       {
         "path": "local_manifest.json",
-        "bytes": 3896
+        "bytes": 4206
       },
       {
         "path": "yt_dlp_download.log",
@@ -244,7 +244,7 @@
       },
       {
         "path": "yt_info_full.json",
-        "bytes": 57753
+        "bytes": 57981
       }
     ]
   }
