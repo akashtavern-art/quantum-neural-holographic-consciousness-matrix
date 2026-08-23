@@ -233,7 +233,7 @@
         },
         {
           "path": "XOcm-InX80Y.info.json",
-          "bytes": 45764
+          "bytes": 45660
         },
         {
           "path": "XOcm-InX80Y.mp4",
@@ -257,12 +257,12 @@
         },
         {
           "path": "yt_info_full.json",
-          "bytes": 57981
+          "bytes": 58046
         }
       ]
     }
   },
   "fatal_error": "strict_t4x2 requested but Kaggle assigned {'count': 1, 'devices': ['Tesla P100-PCIE-16GB'], 'error': None}",
   "traceback": "Traceback (most recent call last):\n  File \"/kaggle/src/script.py\", line 924, in main\n    raise RuntimeError(f\"strict_t4x2 requested but Kaggle assigned {benchmark['gpu']}\")\nRuntimeError: strict_t4x2 requested but Kaggle assigned {'count': 1, 'devices': ['Tesla P100-PCIE-16GB'], 'error': None}\n",
-  "total_seconds": 4.832
+  "total_seconds": 10.765
 }
