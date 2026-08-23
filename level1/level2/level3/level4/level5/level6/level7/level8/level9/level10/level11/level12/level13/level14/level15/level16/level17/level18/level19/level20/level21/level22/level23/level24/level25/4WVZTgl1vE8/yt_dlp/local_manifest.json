@@ -3,6 +3,8 @@
   "url": "https://www.youtube.com/watch?v=4WVZTgl1vE8",
   "title": "Impractical Jokers - Q Experiences The Joys Of Pregnancy (Punishment) | truTV",
   "duration": 206,
+  "normalized_media": "4WVZTgl1vE8.normalized.mp4",
+  "normalization_warning_count": 0,
   "files": [
     {
       "path": "4WVZTgl1vE8.0.jpg",
@@ -194,19 +196,31 @@
     },
     {
       "path": "4WVZTgl1vE8.info.json",
-      "bytes": 38112
+      "bytes": 38312
     },
     {
       "path": "4WVZTgl1vE8.mp4",
       "bytes": 10566721
     },
     {
+      "path": "4WVZTgl1vE8.normalized.mp4",
+      "bytes": 21066337
+    },
+    {
+      "path": "ffmpeg_normalize.log",
+      "bytes": 6301
+    },
+    {
+      "path": "local_manifest.json",
+      "bytes": 3758
+    },
+    {
       "path": "yt_dlp_download.log",
-      "bytes": 47556
+      "bytes": 22591
     },
     {
       "path": "yt_info_full.json",
-      "bytes": 49521
+      "bytes": 49565
     }
   ]
 }
