@@ -1,18 +1,26 @@
 {
   "youtube_url": "https://www.youtube.com/watch?v=XOcm-InX80Y",
-  "media_url": "https://raw.githubusercontent.com/akashtavern-art/quantum-neural-holographic-consciousness-matrix/main/level1/level2/level3/level4/level5/level6/level7/level8/level9/level10/level11/level12/level13/level14/level15/level16/level17/level18/level19/level20/level21/level22/level23/level24/level25/XOcm-InX80Y/yt_dlp/XOcm-InX80Y.mp4",
-  "media_file": "XOcm-InX80Y.mp4",
+  "media_url": "https://raw.githubusercontent.com/akashtavern-art/quantum-neural-holographic-consciousness-matrix/main/level1/level2/level3/level4/level5/level6/level7/level8/level9/level10/level11/level12/level13/level14/level15/level16/level17/level18/level19/level20/level21/level22/level23/level24/level25/XOcm-InX80Y/yt_dlp/XOcm-InX80Y.normalized.mp4",
+  "media_file": "XOcm-InX80Y.normalized.mp4",
   "video_id": "XOcm-InX80Y",
   "skill_name": "default",
   "skill_file": "/Users/akash/Documents/all_rounder_yt_automation/skills/default.md",
   "skill_match_type": "default",
   "skill_text": "# Default\n\nGeneral YouTube Shorts transformation profile.\n",
   "github_folder": "https://github.com/akashtavern-art/quantum-neural-holographic-consciousness-matrix/tree/main/level1/level2/level3/level4/level5/level6/level7/level8/level9/level10/level11/level12/level13/level14/level15/level16/level17/level18/level19/level20/level21/level22/level23/level24/level25/XOcm-InX80Y",
+  "strict_t4x2": true,
+  "require_diarization": true,
+  "require_object_detection": true,
+  "require_face_detection": true,
+  "require_llm_timeline": true,
+  "require_normalized_media": true,
   "local_manifest": {
     "video_id": "XOcm-InX80Y",
     "url": "https://www.youtube.com/watch?v=XOcm-InX80Y",
     "title": "Impractical Jokers - Talent Show Dream Destroyer (Punishment) | truTV",
     "duration": 278,
+    "normalized_media": "XOcm-InX80Y.normalized.mp4",
+    "normalization_warning_count": 0,
     "files": [
       {
         "path": "XOcm-InX80Y.0.jpg",
@@ -212,19 +220,31 @@
       },
       {
         "path": "XOcm-InX80Y.info.json",
-        "bytes": 45757
+        "bytes": 45449
       },
       {
         "path": "XOcm-InX80Y.mp4",
         "bytes": 19651175
       },
       {
+        "path": "XOcm-InX80Y.normalized.mp4",
+        "bytes": 52275710
+      },
+      {
+        "path": "ffmpeg_normalize.log",
+        "bytes": 8060
+      },
+      {
+        "path": "local_manifest.json",
+        "bytes": 3896
+      },
+      {
         "path": "yt_dlp_download.log",
-        "bytes": 61775
+        "bytes": 22591
       },
       {
         "path": "yt_info_full.json",
-        "bytes": 58052
+        "bytes": 57753
       }
     ]
   }
