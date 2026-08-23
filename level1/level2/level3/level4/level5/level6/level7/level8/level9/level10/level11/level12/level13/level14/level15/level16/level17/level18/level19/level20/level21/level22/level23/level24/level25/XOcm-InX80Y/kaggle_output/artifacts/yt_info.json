@@ -1,0 +1,51 @@
+{
+  "id": "XOcm-InX80Y",
+  "title": "XOcm-InX80Y",
+  "timestamp": null,
+  "direct": true,
+  "url": "https://raw.githubusercontent.com/akashtavern-art/quantum-neural-holographic-consciousness-matrix/main/level1/level2/level3/level4/level5/level6/level7/level8/level9/level10/level11/level12/level13/level14/level15/level16/level17/level18/level19/level20/level21/level22/level23/level24/level25/XOcm-InX80Y/yt_dlp/XOcm-InX80Y.mp4",
+  "ext": "mp4",
+  "webpage_url": "https://raw.githubusercontent.com/akashtavern-art/quantum-neural-holographic-consciousness-matrix/main/level1/level2/level3/level4/level5/level6/level7/level8/level9/level10/level11/level12/level13/level14/level15/level16/level17/level18/level19/level20/level21/level22/level23/level24/level25/XOcm-InX80Y/yt_dlp/XOcm-InX80Y.mp4",
+  "original_url": "https://raw.githubusercontent.com/akashtavern-art/quantum-neural-holographic-consciousness-matrix/main/level1/level2/level3/level4/level5/level6/level7/level8/level9/level10/level11/level12/level13/level14/level15/level16/level17/level18/level19/level20/level21/level22/level23/level24/level25/XOcm-InX80Y/yt_dlp/XOcm-InX80Y.mp4",
+  "webpage_url_basename": "XOcm-InX80Y.mp4",
+  "webpage_url_domain": "raw.githubusercontent.com",
+  "extractor": "generic",
+  "extractor_key": "Generic",
+  "playlist": null,
+  "playlist_index": null,
+  "display_id": "XOcm-InX80Y",
+  "fulltitle": "XOcm-InX80Y",
+  "release_year": null,
+  "requested_subtitles": null,
+  "_has_drm": null,
+  "protocol": "https",
+  "video_ext": "mp4",
+  "audio_ext": "none",
+  "vbr": null,
+  "abr": null,
+  "tbr": null,
+  "resolution": null,
+  "dynamic_range": "SDR",
+  "aspect_ratio": null,
+  "filesize_approx": null,
+  "http_headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-us,en;q=0.5",
+    "Sec-Fetch-Mode": "navigate"
+  },
+  "format_id": "0",
+  "format": "0 - unknown",
+  "epoch": 1787441206,
+  "requested_downloads": [
+    {
+      "_filename": "/kaggle/working/media/source.mp4",
+      "filename": "/kaggle/working/media/source.mp4",
+      "__postprocessors": [],
+      "__real_download": true,
+      "__finaldir": "/kaggle/working/media",
+      "filepath": "/kaggle/working/media/source.mp4",
+      "__write_download_archive": true
+    }
+  ]
+}
